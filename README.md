@@ -42,6 +42,40 @@ Mon-Stage/
 - [x] README et conventions de base
 - [ ] *(À compléter au fil du projet)*
 
+## Screenshots (FE-03)
+
+### Cursor Output
+![Cursor Form](./captures/cursor.png)
+
+### Claude Output
+![Claude Form](./captures/claude.png)
+
+### v0 Output
+![v0 Form](./captures/v0.png)
+
+## Screenshots (FE-03)
+
+### Cursor Output
+![Cursor Form](./captures/cursor.png)
+
+### Claude Output
+![Claude Form](./captures/claude.png)
+
+### v0 Output
+![v0 Form](./captures/v0.png)
+
+
+## Workflow Comparison
+
+See [WORKFLOW.md](./WORKFLOW.md) for the detailed comparison between vague and precise prompts, including bonus analysis of Cursor, Claude, and v0.
+
+## Progress Status
+
+- [x] Git repository initialization  
+- [x] README and basic conventions  
+- [x] FE-03: Workflow comparison (vague vs precise)  
+- [x] Bonus: Comparison with Claude and v0  
+
 ## Auteur
 
 *Abdoul-Madjid BAWA-2026
