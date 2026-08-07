@@ -85,5 +85,5 @@ Voir [WORKFLOW.md](./WORKFLOW.md) pour la comparaison détaillée entre les invi
 
 ## Author / Auteur
 
-Abdoul-Madjid BAWA-2026 v
-
+Abdoul-Madjid BAWA-2026 
+v
