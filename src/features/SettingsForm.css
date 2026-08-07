@@ -1,0 +1,84 @@
+.settings-form {
+  width: min(100%, 28rem);
+  padding: 2rem;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+.settings-form__header h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+}
+
+.settings-form__header p {
+  margin: 0;
+  color: #64748b;
+}
+
+.settings-form__body {
+  display: grid;
+  gap: 1.25rem;
+  margin-top: 1.75rem;
+}
+
+.settings-form__field {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.settings-form__field label {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.settings-form__field input {
+  width: 100%;
+  padding: 0.75rem 0.875rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.5rem;
+  font: inherit;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.settings-form__field input:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+}
+
+.settings-form__field input[aria-invalid="true"] {
+  border-color: #dc2626;
+}
+
+.settings-form__error {
+  margin: 0;
+  color: #dc2626;
+  font-size: 0.875rem;
+}
+
+.settings-form__submit {
+  margin-top: 0.5rem;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  background: #2563eb;
+  color: #ffffff;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.settings-form__submit:hover {
+  background: #1d4ed8;
+}
+
+.settings-form__success {
+  margin: 1rem 0 0;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  background: #ecfdf5;
+  color: #047857;
+  font-size: 0.95rem;
+}
