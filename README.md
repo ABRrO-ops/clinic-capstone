@@ -1,6 +1,6 @@
 # Clinic Capstone
 
-**Projet FE-01** — Development Environment and AI Toolchain
+**Projet FE-01** — Development Environment and AI Toolchain  <br>
 **Projet FE-01** — Environnement et chaîne d'outils IA
 
 Setting up the development environment and AI tools for the Clinic Capstone journey.  <br>
@@ -86,4 +86,4 @@ Voir [WORKFLOW.md](./WORKFLOW.md) pour la comparaison détaillée entre les invi
 ## Author / Auteur
 
 Abdoul-Madjid BAWA-2026 
-v
+
