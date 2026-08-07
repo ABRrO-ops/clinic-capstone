@@ -17,3 +17,10 @@ The vague workflow highlighted a major limitation: the AI did not generate any c
 
 ### Conclusion
 The comparison demonstrates that vague prompts lead to incomplete or unusable results, while precise prompts with constraints, examples, and verification steps produce accurate, accessible, and testable code. Although the precise workflow required more effort initially, it delivered a functional component that met project standards. This exercise clearly shows that directing the AI with detailed specifications is essential for achieving professional results.
+
+## Bonus Comparison
+
+Claude produced complete code with validation and tests, similar to Cursor.  
+Cursor generated a production-ready component integrated in Vite, with all tests passing.  
+v0 created the files and configs, but the preview was blank until the component was manually linked to the main page. Once integrated, the form rendered correctly.  
+This comparison shows that Cursor and Claude deliver directly usable code, while v0 focuses more on scaffolding and requires additional steps to achieve a working UI.
